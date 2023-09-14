@@ -1,0 +1,7 @@
+Estudiante:  Yoel Cristian Quispe Diaz
+
+Materia: Taller 1
+
+tema: sistema de venta
+
+link: https://github.com/Yoel-Cristian/taller_sistema_venta.git
